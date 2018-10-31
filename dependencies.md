@@ -1,5 +1,5 @@
 # Google Apps Script Project: cBlogger
-This repo (cBlogger) was automatically updated on 16 October 2016 15:28:53 BST by GasGit
+This repo (cBlogger) was automatically updated on 31 October 2018 11:42:46 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cBlogger
@@ -10,17 +10,20 @@ The shared link for [cBlogger is here](https://script.google.com/d/1j0kFuzcAQNsL
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|61|no|[here](libraries/cUseful "library source")
-cGoa| cGoa|MZx5DzNPsYjVyZaR67xXJQai_d-phDA33|33|no|[here](libraries/cGoa "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|61|no|[here](libraries/cUseful "library source")
+cGoa| cGoa|1v_l4xN3ICa0lAW315NQEzAHPSoNiFdWHsMEwj2qA5t9cgZ5VWci2Qxv2|20|no|[here](libraries/cGoa "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|61|no|[here](libraries/cUseful "library source")
-cGoa| cGoa|MZx5DzNPsYjVyZaR67xXJQai_d-phDA33|33|no|[here](libraries/cGoa "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|61|no|[here](libraries/cUseful "library source")
+cGoa| cGoa|1v_l4xN3ICa0lAW315NQEzAHPSoNiFdWHsMEwj2qA5t9cgZ5VWci2Qxv2|20|no|[here](libraries/cGoa "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
